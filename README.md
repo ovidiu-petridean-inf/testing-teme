@@ -1,2 +1,2 @@
 # testing-teme
-Ovidiu
+Ovidiu - exercise 1
